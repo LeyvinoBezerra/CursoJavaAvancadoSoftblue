@@ -1,0 +1,4 @@
+// Site oficial do Mavel
+   https://maven.apache.org/
+// Repositória central do Mavel
+   https://central.sonatype.com/?smo=true
